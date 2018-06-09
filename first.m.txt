@@ -1,3 +1,4 @@
 x=[1:100]
 y=x*2
+axis on
 plot(x,y)
